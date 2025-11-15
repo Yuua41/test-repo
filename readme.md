@@ -14,6 +14,8 @@
 
 -item2_2
 
+-item2_3
+
 ## chapter03
 
--[] item
+-[ ] item
