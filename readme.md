@@ -29,3 +29,7 @@
 ## chapter05
 
 -develop で追加した
+
+## chapter06
+
+-練習用に追記
